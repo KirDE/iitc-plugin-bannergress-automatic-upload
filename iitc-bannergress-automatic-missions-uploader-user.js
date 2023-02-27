@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           IITC Plugin: Bannergress automatic missions uploader
-// @id             missions-plugin-private
+// @id             missions-plugin-bannergress-automatic-upload
 // @category       Misc
 // @version        0.2
 // @updateURL      https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader-user.js
