@@ -3,8 +3,8 @@
 // @id             missions-plugin-bannergress-automatic-upload
 // @category       Misc
 // @version        0.2
-// @updateURL      https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader-user.js
-// @downloadURL    https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader-user.js
+// @updateURL      https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader.user.js
+// @downloadURL    https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader.user.js
 // @author         KirillDE
 // @description    Automatically uploads new found missions to bannergress after area scan or opening mission link.
 // @match          https://intel.ingress.com/*
