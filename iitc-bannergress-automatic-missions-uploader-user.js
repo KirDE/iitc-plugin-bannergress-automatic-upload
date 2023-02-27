@@ -6,7 +6,7 @@
 // @updateURL      https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader-user.js
 // @downloadURL    https://github.com/KirDE/iitc-plugin-bannergress-automatic-upload/raw/main/iitc-bannergress-automatic-missions-uploader-user.js
 // @author         KirillDE
-// @description    Private missions Addon
+// @description    Automatically uploads new found missions to bannergress after area scan or opening mission link.
 // @match          https://intel.ingress.com/*
 // @match          https://intel-x.ingress.com/*
 // @grant          none
